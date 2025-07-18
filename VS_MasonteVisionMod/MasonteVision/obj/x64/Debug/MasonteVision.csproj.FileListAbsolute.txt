@@ -1,0 +1,1022 @@
+D:\软件框架构思\MasonteVision\MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+D:\软件框架构思\MasonteVision\MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe
+D:\软件框架构思\MasonteVision\MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+D:\软件框架构思\MasonteVision\MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+D:\软件框架构思\MasonteVision\MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.Cache
+D:\软件框架构思\MasonteVision\MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.exe
+D:\软件框架构思\MasonteVision\MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+D:\软件框架构思\MasonteVision\MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csprojResolveAssemblyReference.cache
+D:\软件框架构思\MasonteVision\MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.dll
+D:\软件框架构思\MasonteVision\MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.dll
+D:\软件框架构思\MasonteVision\MasonteVision\MasonteVision\bin\x64\Debug\Interop.ADOX.dll
+D:\软件框架构思\MasonteVision\MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.pdb
+D:\软件框架构思\MasonteVision\MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.pdb
+D:\软件框架构思\MasonteVision\MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.resources
+D:\软件框架构思\MasonteVision\MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Login.resources
+D:\软件框架构思\MasonteVision\MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_LOGList.resources
+D:\软件框架构思\MasonteVision\MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_DataTable.resources
+D:\软件框架构思\MasonteVision\MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Loading.resources
+D:\user\mx2235\Desktop\软件框架构思\MasonteVision\MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+D:\user\mx2235\Desktop\软件框架构思\MasonteVision\MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.exe
+D:\user\mx2235\Desktop\软件框架构思\MasonteVision\MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+D:\user\mx2235\Desktop\软件框架构思\MasonteVision\MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe
+D:\user\mx2235\Desktop\软件框架构思\MasonteVision\MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+D:\user\mx2235\Desktop\软件框架构思\MasonteVision\MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.dll
+D:\user\mx2235\Desktop\软件框架构思\MasonteVision\MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.dll
+D:\user\mx2235\Desktop\软件框架构思\MasonteVision\MasonteVision\MasonteVision\bin\x64\Debug\Interop.ADOX.dll
+D:\user\mx2235\Desktop\软件框架构思\MasonteVision\MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.pdb
+D:\user\mx2235\Desktop\软件框架构思\MasonteVision\MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.pdb
+D:\user\mx2235\Desktop\软件框架构思\MasonteVision\MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csprojResolveAssemblyReference.cache
+D:\user\mx2235\Desktop\软件框架构思\MasonteVision\MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Loading.resources
+D:\user\mx2235\Desktop\软件框架构思\MasonteVision\MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Login.resources
+D:\user\mx2235\Desktop\软件框架构思\MasonteVision\MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.resources
+D:\user\mx2235\Desktop\软件框架构思\MasonteVision\MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_DataTable.resources
+D:\user\mx2235\Desktop\软件框架构思\MasonteVision\MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_LOGList.resources
+D:\user\mx2235\Desktop\软件框架构思\MasonteVision\MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_ParametersSetting.resources
+D:\user\mx2235\Desktop\软件框架构思\MasonteVision\MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+D:\user\mx2235\Desktop\软件框架构思\MasonteVision\MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.Cache
+D:\软件框架构思\MasonteVision\MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_ParametersSetting.resources
+D:\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+D:\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.exe
+D:\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+D:\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe
+D:\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+D:\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.dll
+D:\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.dll
+D:\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\bin\x64\Debug\Interop.ADOX.dll
+D:\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.pdb
+D:\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.pdb
+D:\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Loading.resources
+D:\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Login.resources
+D:\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.resources
+D:\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_DataTable.resources
+D:\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_LOGList.resources
+D:\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_ParametersSetting.resources
+D:\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+D:\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.Cache
+D:\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csprojResolveAssemblyReference.cache
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.dll
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.dll
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVisionForHa.dll
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\bin\x64\Debug\Interop.ADOX.dll
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.pdb
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.pdb
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVisionForHa.pdb
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csprojResolveAssemblyReference.cache
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Loading.resources
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Login.resources
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.resources
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_DataTable.resources
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_LOGList.resources
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_ParametersSetting.resources
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.Cache
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.exe
+F:\Git\VisionFrame\软件框架构思\MasonteVision_Project\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+D:\软件框架应用\MaonteVision_VisionMaster\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Loading.resources
+D:\软件框架应用\MaonteVision_VisionMaster\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Login.resources
+D:\软件框架应用\MaonteVision_VisionMaster\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.resources
+D:\软件框架应用\MaonteVision_VisionMaster\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_DataTable.resources
+D:\软件框架应用\MaonteVision_VisionMaster\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_LOGList.resources
+D:\软件框架应用\MaonteVision_VisionMaster\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_ParametersSetting.resources
+D:\软件框架应用\MaonteVision_VisionMaster\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+D:\软件框架应用\MaonteVision_VisionMaster\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.Cache
+D:\软件框架应用\MaonteVision_VisionMaster\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.exe
+D:\软件框架应用\MaonteVision_VisionMaster\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+D:\软件框架应用\MaonteVision_VisionMaster\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+D:\软件框架应用\MaonteVision_VisionMaster\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe
+D:\软件框架应用\MaonteVision_VisionMaster\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+D:\软件框架应用\MaonteVision_VisionMaster\VS_MasonteVision\MasonteVision\bin\x64\Debug\iMVS-6000PlatformSDKCS.dll
+D:\软件框架应用\MaonteVision_VisionMaster\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.dll
+D:\软件框架应用\MaonteVision_VisionMaster\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.dll
+D:\软件框架应用\MaonteVision_VisionMaster\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVisionVMGUI.dll
+D:\软件框架应用\MaonteVision_VisionMaster\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+D:\软件框架应用\MaonteVision_VisionMaster\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.pdb
+D:\软件框架应用\MaonteVision_VisionMaster\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.pdb
+D:\软件框架应用\MaonteVision_VisionMaster\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+D:\软件框架应用\MaonteVision_VisionMaster\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csprojResolveAssemblyReference.cache
+D:\软件框架应用\MaonteVision_VisionMaster\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVisionVMGUI.pdb
+D:\软件框架应用\MaonteVision_VisionMaster 330\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+D:\软件框架应用\MaonteVision_VisionMaster 330\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe
+D:\软件框架应用\MaonteVision_VisionMaster 330\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+D:\软件框架应用\MaonteVision_VisionMaster 330\VS_MasonteVision\MasonteVision\bin\x64\Debug\iMVS-6000PlatformSDKCS.dll
+D:\软件框架应用\MaonteVision_VisionMaster 330\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.dll
+D:\软件框架应用\MaonteVision_VisionMaster 330\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.dll
+D:\软件框架应用\MaonteVision_VisionMaster 330\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+D:\软件框架应用\MaonteVision_VisionMaster 330\VS_MasonteVision\MasonteVision\bin\x64\Debug\iMVS-6000PlatformSDKCS.xml
+D:\软件框架应用\MaonteVision_VisionMaster 330\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.pdb
+D:\软件框架应用\MaonteVision_VisionMaster 330\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.pdb
+D:\软件框架应用\MaonteVision_VisionMaster 330\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+D:\软件框架应用\MaonteVision_VisionMaster 330\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Loading.resources
+D:\软件框架应用\MaonteVision_VisionMaster 330\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Login.resources
+D:\软件框架应用\MaonteVision_VisionMaster 330\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.resources
+D:\软件框架应用\MaonteVision_VisionMaster 330\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_DataTable.resources
+D:\软件框架应用\MaonteVision_VisionMaster 330\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_Ethernet.resources
+D:\软件框架应用\MaonteVision_VisionMaster 330\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_LOGList.resources
+D:\软件框架应用\MaonteVision_VisionMaster 330\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_ParametersSetting.resources
+D:\软件框架应用\MaonteVision_VisionMaster 330\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+D:\软件框架应用\MaonteVision_VisionMaster 330\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVisionVM330GUI.VisionMasterGUI.resources
+D:\软件框架应用\MaonteVision_VisionMaster 330\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.Cache
+D:\软件框架应用\MaonteVision_VisionMaster 330\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.exe
+D:\软件框架应用\MaonteVision_VisionMaster 330\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.exe
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\iMVS-6000PlatformSDKCS.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\iMVS-6000PlatformSDKCS.xml
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.pdb
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.pdb
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Loading.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Login.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_DataTable.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_Ethernet.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_LOGList.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_ParametersSetting.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVisionVM330GUI.VisionMasterGUI.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.Cache
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.exe
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\iMVS-6000PlatformSDKCS.dll
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\iMVS-6000PlatformSDKCS.xml
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csprojResolveAssemblyReference.cache
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Loading.resources
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Login.resources
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.resources
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_DataTable.resources
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_Ethernet.resources
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_LOGList.resources
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_ParametersSetting.resources
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVisionVM330GUI.VisionMasterGUI.resources
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.Cache
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\zh-CN\MasonteVision.resources.dll
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.zh-CN.resources
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\zh-CN\MasonteVision.resources.dll
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\en-US\MasonteVision.resources.dll
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.en-US.resources
+F:\彩盒项目\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\en-US\MasonteVision.resources.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\en-US\MasonteVision.resources.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\zh-CN\MasonteVision.resources.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.en-US.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.zh-CN.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\en-US\MasonteVision.resources.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\zh-CN\MasonteVision.resources.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.VM330GUI.ParamForm.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csprojResolveAssemblyReference.cache
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.exe
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csprojAssemblyReference.cache
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmCylinderControlUI.resources
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Loading.resources
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Login.resources
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.resources
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_DataTable.resources
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_Ethernet.resources
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_LOGList.resources
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_ParametersSetting.resources
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.VM330GUI.ParamForm.resources
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVisionVM330GUI.VisionMasterGUI.resources
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.en-US.resources
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.zh-CN.resources
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.exe
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\en-US\MasonteVision.resources.dll
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\zh-CN\MasonteVision.resources.dll
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\Common.dll
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\ControlLib.dll
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\DAL.dll
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\Models.dll
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\RudySocket.dll
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\MySql.Data.dll
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\Common.pdb
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\ControlLib.pdb
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\DAL.pdb
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\Models.pdb
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\RudySocket.pdb
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\iMVS-6000PlatformSDKCS.xml
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.pdb
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.pdb
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\bin\x64\Debug\MySql.Data.xml
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\en-US\MasonteVision.resources.dll
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\zh-CN\MasonteVision.resources.dll
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmMonitorSensor.resources
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmManualUI.resources
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmMotionControl.resources
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmAxis1Aixs3.resources
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmAxis4Axis5.resources
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmCameraYAxisParamsHistoryLog.resources
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmNGAxisParamsHistoryLog.resources
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmUpDownZAxisParamsHistoryLog.resources
+F:\MX2020\Vivo彩盒\MaonteVision_VisionMaster330_vivo\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmUpDownRationAxisParamsHistoryLog.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.exe
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\en-US\MasonteVision.resources.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\zh-CN\MasonteVision.resources.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\Common.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\ControlLib.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\DAL.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\iMVS-6000PlatformSDKCS.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\Models.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\RudySocket.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\MySql.Data.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\Common.pdb
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\ControlLib.pdb
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\DAL.pdb
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\Models.pdb
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\RudySocket.pdb
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\iMVS-6000PlatformSDKCS.xml
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.pdb
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.pdb
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\bin\x64\Debug\MySql.Data.xml
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csprojResolveAssemblyReference.cache
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmMonitorSensor.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmCylinderControlUI.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmManualUI.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmMotionControl.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmAxis1Aixs3.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmAxis4Axis5.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmCameraYAxisParamsHistoryLog.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmNGAxisParamsHistoryLog.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmUpDownZAxisParamsHistoryLog.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmUpDownRationAxisParamsHistoryLog.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Loading.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Login.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_DataTable.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_Ethernet.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_LOGList.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_ParametersSetting.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.VM330GUI.ParamForm.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVisionVM330GUI.VisionMasterGUI.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.en-US.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.zh-CN.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.Cache
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\en-US\MasonteVision.resources.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200722\VS_MasonteVision\MasonteVision\obj\x64\Debug\zh-CN\MasonteVision.resources.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.exe
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\en-US\MasonteVision.resources.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\Common.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\ControlLib.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\DAL.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\iMVS-6000PlatformSDKCS.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\Models.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\RudySocket.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\MySql.Data.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\Common.pdb
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\ControlLib.pdb
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\DAL.pdb
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\Models.pdb
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\RudySocket.pdb
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\iMVS-6000PlatformSDKCS.xml
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.pdb
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.pdb
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\MySql.Data.xml
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csprojResolveAssemblyReference.cache
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmMonitorSensor.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmCylinderControlUI.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmManualUI.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmMotionControl.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmAxis1Aixs3.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmAxis4Axis5.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmCameraYAxisParamsHistoryLog.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmNGAxisParamsHistoryLog.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmUpDownZAxisParamsHistoryLog.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmUpDownRationAxisParamsHistoryLog.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Loading.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Login.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_DataTable.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_Ethernet.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_LOGList.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_ParametersSetting.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.VM330GUI.ParamForm.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVisionVM330GUI.VisionMasterGUI.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.en-US.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.Cache
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\en-US\MasonteVision.resources.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\bin\x64\Debug\SpinnakerNET_v140.dll
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_ParametersSetting.en-US.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Login.en-US.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MessageBoxEX.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MessageBoxEX.en-US.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_LOGList.en-US.resources
+D:\软件框架应用\MaonteVision_VisionMaster330_vivo  20200728-l\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_DataTable.en-US.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\en-US\MasonteVision.resources.dll
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\AxInterop.IpeDspCtrlLib.dll
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\Common.dll
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\ControlLib.dll
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\DAL.dll
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\iMVS-6000PlatformSDKCS.dll
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.dll
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.dll
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\Models.dll
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\RudySocket.dll
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\SpinnakerNET_v140.dll
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MySql.Data.dll
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\Common.pdb
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\ControlLib.pdb
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\DAL.pdb
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\Models.pdb
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\RudySocket.pdb
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\iMVS-6000PlatformSDKCS.xml
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.pdb
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.pdb
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MySql.Data.xml
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csprojResolveAssemblyReference.cache
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmMonitorSensor.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmCylinderControlUI.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmManualUI.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmMotionControl.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmAxis1Aixs3.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmAxis4Axis5.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmCameraYAxisParamsHistoryLog.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmNGAxisParamsHistoryLog.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmUpDownZAxisParamsHistoryLog.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FrmUpDownRationAxisParamsHistoryLog.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MessageBoxEX.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Loading.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Login.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_DataTable.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_Ethernet.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_LOGList.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_ParametersSetting.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVisionShGUI.MainGUI.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVisionShGUI.BoolStringDouble.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVisionShGUI.CameraIndex.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVisionShGUI.PointSet.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVisionShGUI.PointsSet.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVisionShGUI.PreAlth.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVisionShGUI.ResizeROI.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVisionShGUI.ShowSet.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.VM330GUI.ParamForm.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVisionVM330GUI.VisionMasterGUI.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MessageBoxEX.en-US.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Login.en-US.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.en-US.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_DataTable.en-US.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_LOGList.en-US.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_ParametersSetting.en-US.resources
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.Cache
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\en-US\MasonteVision.resources.dll
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.exe
+D:\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MessageBoxEX.resources
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Loading.resources
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Login.resources
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.resources
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_DataTable.resources
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_Ethernet.resources
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_LOGList.resources
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_ParametersSetting.resources
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.VM330GUI.ParamForm.resources
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVisionVM330GUI.VisionMasterGUI.resources
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MessageBoxEX.en-US.resources
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Login.en-US.resources
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.en-US.resources
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_DataTable.en-US.resources
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_LOGList.en-US.resources
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_ParametersSetting.en-US.resources
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.exe
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\en-US\MasonteVision.resources.dll
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\en-US\MasonteVision.resources.dll
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.dll
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.dll
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.pdb
+F:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.pdb
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\en-US\MasonteVision.resources.dll
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.dll
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.dll
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.pdb
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.pdb
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MessageBoxEX.resources
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Loading.resources
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Login.resources
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.resources
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_DataTable.resources
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_Ethernet.resources
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_LOGList.resources
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_ParametersSetting.resources
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.VM330GUI.ParamForm.resources
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVisionVM330GUI.VisionMasterGUI.resources
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MessageBoxEX.en-US.resources
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Login.en-US.resources
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.en-US.resources
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_DataTable.en-US.resources
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_LOGList.en-US.resources
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_ParametersSetting.en-US.resources
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\en-US\MasonteVision.resources.dll
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.exe
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+E:\S---软件应用\软件框架应用\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csprojAssemblyReference.cache
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csprojAssemblyReference.cache
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MessageBoxEX.resources
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Loading.resources
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Login.resources
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.resources
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_DataTable.resources
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_Ethernet.resources
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_LOGList.resources
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_ParametersSetting.resources
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.VM330GUI.ParamForm.resources
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVisionVM330GUI.VisionMasterGUI.resources
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MessageBoxEX.en-US.resources
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Login.en-US.resources
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.en-US.resources
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_DataTable.en-US.resources
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_LOGList.en-US.resources
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_ParametersSetting.en-US.resources
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.exe
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\en-US\MasonteVision.resources.dll
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.dll
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.dll
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteCommInterface.pdb
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteDataProcess.pdb
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\en-US\MasonteVision.resources.dll
+E:\S---软件应用\软件框架应用\MasonSmartRaytest\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MessageBoxEX.resources
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Loading.resources
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Login.resources
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.resources
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_DataTable.resources
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_Ethernet.resources
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_LOGList.resources
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MessageBoxEX.en-US.resources
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Login.en-US.resources
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_Form_Main.en-US.resources
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_DataTable.en-US.resources
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MV_UC_LOGList.en-US.resources
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.exe
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\en-US\MasonteVision.resources.dll
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\en-US\MasonteVision.resources.dll
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+E:\A---其他项目\Pad测试\MaonteVision_V1.0.0\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csprojAssemblyReference.cache
+E:\S---软件应用\软件框架应用\新建文件夹\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+E:\S---软件应用\软件框架应用\新建文件夹\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe
+E:\S---软件应用\软件框架应用\新建文件夹\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+E:\S---软件应用\软件框架应用\新建文件夹\VS_MasonteVision\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+E:\S---软件应用\软件框架应用\新建文件夹\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+E:\S---软件应用\软件框架应用\新建文件夹\VS_MasonteVision\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+E:\S---软件应用\软件框架应用\新建文件夹\VS_MasonteVision\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+E:\S---软件应用\软件框架应用\新建文件夹\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+E:\S---软件应用\软件框架应用\新建文件夹\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+E:\S---软件应用\软件框架应用\新建文件夹\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+E:\S---软件应用\软件框架应用\新建文件夹\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+E:\S---软件应用\软件框架应用\新建文件夹\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+E:\S---软件应用\软件框架应用\新建文件夹\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+E:\S---软件应用\软件框架应用\新建文件夹\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+E:\S---软件应用\软件框架应用\新建文件夹\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+E:\S---软件应用\软件框架应用\新建文件夹\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.exe
+E:\S---软件应用\软件框架应用\新建文件夹\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+E:\S---软件应用\软件框架应用\新建文件夹\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MainForm.resources
+E:\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+E:\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+E:\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+E:\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MainForm.resources
+E:\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+E:\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+E:\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+E:\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+E:\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe
+E:\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+E:\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+E:\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+E:\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+E:\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\bin\x64\Debug\SRAPI_CSharp-x64.dll
+E:\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+E:\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+E:\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+E:\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.exe
+E:\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+E:\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FormTest.resources
+E:\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csprojAssemblyReference.cache
+E:\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.FormTest.resources
+E:\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+E:\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+E:\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+E:\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.MainForm.resources
+E:\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+E:\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+E:\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+E:\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.exe
+E:\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+E:\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+E:\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\bin\x64\Debug\MasonteVision.exe
+E:\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+E:\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+E:\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+E:\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+E:\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\bin\x64\Debug\SRAPI_CSharp-x64.dll
+E:\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+E:\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+E:\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+F:\PAD_AOI文件\VS_MasonteVision第二版\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+F:\PAD_AOI文件\VS_MasonteVision第二版\MasonteVision\bin\x64\Debug\MasonteVision.exe
+F:\PAD_AOI文件\VS_MasonteVision第二版\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+F:\PAD_AOI文件\VS_MasonteVision第二版\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+F:\PAD_AOI文件\VS_MasonteVision第二版\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+F:\PAD_AOI文件\VS_MasonteVision第二版\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+F:\PAD_AOI文件\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.FormTest.resources
+F:\PAD_AOI文件\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+F:\PAD_AOI文件\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+F:\PAD_AOI文件\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+F:\PAD_AOI文件\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.MainForm.resources
+F:\PAD_AOI文件\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+F:\PAD_AOI文件\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+F:\PAD_AOI文件\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+F:\PAD_AOI文件\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+F:\PAD_AOI文件\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.exe
+F:\PAD_AOI文件\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+F:\PAD_AOI文件\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.csproj.AssemblyReference.cache
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\bin\x64\Debug\MasonteVision.exe
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.FormTest.resources
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.MainForm.resources
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.exe
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision第二版\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FormTest.resources
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MainForm.resources
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.exe
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+F:\资料\A---其他项目\Pad测试\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.AssemblyReference.cache
+F:\PAD_AOI文件\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+F:\PAD_AOI文件\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.exe
+F:\PAD_AOI文件\VS_MasonteVision\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+F:\PAD_AOI文件\VS_MasonteVision\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+F:\PAD_AOI文件\VS_MasonteVision\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+F:\PAD_AOI文件\VS_MasonteVision\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+F:\PAD_AOI文件\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.FormTest.resources
+F:\PAD_AOI文件\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+F:\PAD_AOI文件\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+F:\PAD_AOI文件\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+F:\PAD_AOI文件\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.MainForm.resources
+F:\PAD_AOI文件\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+F:\PAD_AOI文件\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+F:\PAD_AOI文件\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+F:\PAD_AOI文件\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+F:\PAD_AOI文件\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.exe
+F:\PAD_AOI文件\VS_MasonteVision\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+F:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+F:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe
+F:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+F:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+F:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+F:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+F:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.FormTest.resources
+F:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+F:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+F:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+F:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.MainForm.resources
+F:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+F:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+F:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+F:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+F:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.exe
+F:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+F:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\ClassLibrary.dll
+F:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\ClassLibrary.pdb
+F:\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+F:\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe
+F:\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+F:\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+F:\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+F:\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+F:\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+F:\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+F:\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.AssemblyReference.cache
+F:\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.FormTest.resources
+F:\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+F:\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+F:\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+F:\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.MainForm.resources
+F:\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+F:\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+F:\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+F:\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+F:\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.exe
+F:\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+F:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.AssemblyReference.cache
+F:\测试软件\VS_MasonteVisionMod20220726\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+F:\测试软件\VS_MasonteVisionMod20220726\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe
+F:\测试软件\VS_MasonteVisionMod20220726\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+F:\测试软件\VS_MasonteVisionMod20220726\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+F:\测试软件\VS_MasonteVisionMod20220726\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+F:\测试软件\VS_MasonteVisionMod20220726\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+F:\测试软件\VS_MasonteVisionMod20220726\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+F:\测试软件\VS_MasonteVisionMod20220726\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+F:\测试软件\VS_MasonteVisionMod20220726\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.FormTest.resources
+F:\测试软件\VS_MasonteVisionMod20220726\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+F:\测试软件\VS_MasonteVisionMod20220726\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+F:\测试软件\VS_MasonteVisionMod20220726\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+F:\测试软件\VS_MasonteVisionMod20220726\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.MainForm.resources
+F:\测试软件\VS_MasonteVisionMod20220726\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+F:\测试软件\VS_MasonteVisionMod20220726\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+F:\测试软件\VS_MasonteVisionMod20220726\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+F:\测试软件\VS_MasonteVisionMod20220726\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+F:\测试软件\VS_MasonteVisionMod20220726\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.exe
+F:\测试软件\VS_MasonteVisionMod20220726\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+F:\PAD AOI 测试\VS_MasonteVisionMod\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+F:\PAD AOI 测试\VS_MasonteVisionMod\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe
+F:\PAD AOI 测试\VS_MasonteVisionMod\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+F:\PAD AOI 测试\VS_MasonteVisionMod\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+F:\PAD AOI 测试\VS_MasonteVisionMod\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+F:\PAD AOI 测试\VS_MasonteVisionMod\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+F:\PAD AOI 测试\VS_MasonteVisionMod\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+F:\PAD AOI 测试\VS_MasonteVisionMod\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+F:\PAD AOI 测试\VS_MasonteVisionMod\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.AssemblyReference.cache
+F:\PAD AOI 测试\VS_MasonteVisionMod\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.FormTest.resources
+F:\PAD AOI 测试\VS_MasonteVisionMod\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+F:\PAD AOI 测试\VS_MasonteVisionMod\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+F:\PAD AOI 测试\VS_MasonteVisionMod\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+F:\PAD AOI 测试\VS_MasonteVisionMod\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.MainForm.resources
+F:\PAD AOI 测试\VS_MasonteVisionMod\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+F:\PAD AOI 测试\VS_MasonteVisionMod\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+F:\PAD AOI 测试\VS_MasonteVisionMod\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+F:\PAD AOI 测试\VS_MasonteVisionMod\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+F:\PAD AOI 测试\VS_MasonteVisionMod\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.exe
+F:\PAD AOI 测试\VS_MasonteVisionMod\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+F:\PAD AOI 测试\VS_MasonteVisionMod20220802S1\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+F:\PAD AOI 测试\VS_MasonteVisionMod20220802S1\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe
+F:\PAD AOI 测试\VS_MasonteVisionMod20220802S1\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+F:\PAD AOI 测试\VS_MasonteVisionMod20220802S1\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+F:\PAD AOI 测试\VS_MasonteVisionMod20220802S1\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+F:\PAD AOI 测试\VS_MasonteVisionMod20220802S1\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+F:\PAD AOI 测试\VS_MasonteVisionMod20220802S1\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+F:\PAD AOI 测试\VS_MasonteVisionMod20220802S1\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+F:\PAD AOI 测试\VS_MasonteVisionMod20220802S1\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.FormTest.resources
+F:\PAD AOI 测试\VS_MasonteVisionMod20220802S1\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+F:\PAD AOI 测试\VS_MasonteVisionMod20220802S1\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+F:\PAD AOI 测试\VS_MasonteVisionMod20220802S1\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+F:\PAD AOI 测试\VS_MasonteVisionMod20220802S1\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.MainForm.resources
+F:\PAD AOI 测试\VS_MasonteVisionMod20220802S1\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+F:\PAD AOI 测试\VS_MasonteVisionMod20220802S1\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+F:\PAD AOI 测试\VS_MasonteVisionMod20220802S1\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+F:\PAD AOI 测试\VS_MasonteVisionMod20220802S1\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+F:\PAD AOI 测试\VS_MasonteVisionMod20220802S1\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.exe
+F:\PAD AOI 测试\VS_MasonteVisionMod20220802S1\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+F:\PAD AOI 测试\VS_MasonteVisionMod20220802S1\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.AssemblyReference.cache
+F:\PAD AOI 测试\第一次设备板测试\VS_MasonteVisionMod20220805Debug02\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+F:\PAD AOI 测试\第一次设备板测试\VS_MasonteVisionMod20220805Debug02\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe
+F:\PAD AOI 测试\第一次设备板测试\VS_MasonteVisionMod20220805Debug02\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+F:\PAD AOI 测试\第一次设备板测试\VS_MasonteVisionMod20220805Debug02\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+F:\PAD AOI 测试\第一次设备板测试\VS_MasonteVisionMod20220805Debug02\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+F:\PAD AOI 测试\第一次设备板测试\VS_MasonteVisionMod20220805Debug02\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+F:\PAD AOI 测试\第一次设备板测试\VS_MasonteVisionMod20220805Debug02\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+F:\PAD AOI 测试\第一次设备板测试\VS_MasonteVisionMod20220805Debug02\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+F:\PAD AOI 测试\第一次设备板测试\VS_MasonteVisionMod20220805Debug02\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.FormTest.resources
+F:\PAD AOI 测试\第一次设备板测试\VS_MasonteVisionMod20220805Debug02\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+F:\PAD AOI 测试\第一次设备板测试\VS_MasonteVisionMod20220805Debug02\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+F:\PAD AOI 测试\第一次设备板测试\VS_MasonteVisionMod20220805Debug02\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+F:\PAD AOI 测试\第一次设备板测试\VS_MasonteVisionMod20220805Debug02\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.MainForm.resources
+F:\PAD AOI 测试\第一次设备板测试\VS_MasonteVisionMod20220805Debug02\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+F:\PAD AOI 测试\第一次设备板测试\VS_MasonteVisionMod20220805Debug02\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+F:\PAD AOI 测试\第一次设备板测试\VS_MasonteVisionMod20220805Debug02\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+F:\PAD AOI 测试\第一次设备板测试\VS_MasonteVisionMod20220805Debug02\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+F:\PAD AOI 测试\第一次设备板测试\VS_MasonteVisionMod20220805Debug02\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.exe
+F:\PAD AOI 测试\第一次设备板测试\VS_MasonteVisionMod20220805Debug02\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+F:\PAD AOI 测试\第一次设备板测试\VS_MasonteVisionMod20220805Debug02\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ParamContrast.resources
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.FormTest.resources
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ParamContrast.resources
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.MainForm.resources
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.exe
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod算法验证版\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod算法验证版\MasonteVision\bin\x64\Debug\MasonteVision.exe
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod算法验证版\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod算法验证版\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod算法验证版\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod算法验证版\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod算法验证版\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod算法验证版\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod算法验证版\MasonteVision\obj\x64\Debug\MasonteVision.FormTest.resources
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod算法验证版\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod算法验证版\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod算法验证版\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ParamContrast.resources
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod算法验证版\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod算法验证版\MasonteVision\obj\x64\Debug\MasonteVision.MainForm.resources
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod算法验证版\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod算法验证版\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod算法验证版\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod算法验证版\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod算法验证版\MasonteVision\obj\x64\Debug\MasonteVision.exe
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod算法验证版\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+F:\PAD AOI 测试\第三次\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.AssemblyReference.cache
+D:\玉芯Pad\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+D:\玉芯Pad\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe
+D:\玉芯Pad\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+D:\玉芯Pad\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+D:\玉芯Pad\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+D:\玉芯Pad\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+D:\玉芯Pad\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.FormTest.resources
+D:\玉芯Pad\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+D:\玉芯Pad\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+D:\玉芯Pad\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ParamContrast.resources
+D:\玉芯Pad\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+D:\玉芯Pad\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.MainForm.resources
+D:\玉芯Pad\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+D:\玉芯Pad\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+D:\玉芯Pad\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+D:\玉芯Pad\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+D:\玉芯Pad\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.exe
+D:\玉芯Pad\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+F:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ParamContrast.resources
+D:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+D:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe
+D:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+D:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\ClassLibrary.dll
+D:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+D:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+D:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\ClassLibrary.pdb
+D:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+D:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.FormTest.resources
+D:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+D:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+D:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ParamContrast.resources
+D:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+D:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.MainForm.resources
+D:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+D:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+D:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+D:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+D:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.exe
+D:\PAD_AOI文件\测试软件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+D:\PAD_AOI文件\PCB_AOI(1)\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+D:\PAD_AOI文件\PCB_AOI(1)\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe
+D:\PAD_AOI文件\PCB_AOI(1)\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+D:\PAD_AOI文件\PCB_AOI(1)\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\ClassLibrary.dll
+D:\PAD_AOI文件\PCB_AOI(1)\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+D:\PAD_AOI文件\PCB_AOI(1)\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+D:\PAD_AOI文件\PCB_AOI(1)\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\ClassLibrary.pdb
+D:\PAD_AOI文件\PCB_AOI(1)\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+D:\PAD_AOI文件\PCB_AOI(1)\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.FormTest.resources
+D:\PAD_AOI文件\PCB_AOI(1)\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+D:\PAD_AOI文件\PCB_AOI(1)\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+D:\PAD_AOI文件\PCB_AOI(1)\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ParamContrast.resources
+D:\PAD_AOI文件\PCB_AOI(1)\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+D:\PAD_AOI文件\PCB_AOI(1)\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.MainForm.resources
+D:\PAD_AOI文件\PCB_AOI(1)\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+D:\PAD_AOI文件\PCB_AOI(1)\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+D:\PAD_AOI文件\PCB_AOI(1)\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+D:\PAD_AOI文件\PCB_AOI(1)\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+D:\PAD_AOI文件\PCB_AOI(1)\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.exe
+D:\PAD_AOI文件\PCB_AOI(1)\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+D:\PAD_AOI文件\PCB_AOI(1)\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.AssemblyReference.cache
+D:\PAD_AOI文件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+D:\PAD_AOI文件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe
+D:\PAD_AOI文件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+D:\PAD_AOI文件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+D:\PAD_AOI文件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+D:\PAD_AOI文件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\ClassLibrary.pdb
+D:\PAD_AOI文件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+D:\PAD_AOI文件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.AssemblyReference.cache
+D:\PAD_AOI文件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.FormTest.resources
+D:\PAD_AOI文件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+D:\PAD_AOI文件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+D:\PAD_AOI文件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ParamContrast.resources
+D:\PAD_AOI文件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+D:\PAD_AOI文件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.MainForm.resources
+D:\PAD_AOI文件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+D:\PAD_AOI文件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+D:\PAD_AOI文件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+D:\PAD_AOI文件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+D:\PAD_AOI文件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.exe
+D:\PAD_AOI文件\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+E:\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+E:\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe
+E:\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+E:\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+E:\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+E:\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+E:\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+E:\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+E:\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.FormTest.resources
+E:\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+E:\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+E:\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ParamContrast.resources
+E:\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+E:\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.MainForm.resources
+E:\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+E:\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+E:\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+E:\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+E:\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.exe
+E:\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+D:\Users\Desktop\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+D:\Users\Desktop\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe
+D:\Users\Desktop\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+D:\Users\Desktop\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+D:\Users\Desktop\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+D:\Users\Desktop\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Users\Desktop\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+D:\Users\Desktop\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+D:\Users\Desktop\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.FormTest.resources
+D:\Users\Desktop\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+D:\Users\Desktop\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+D:\Users\Desktop\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ParamContrast.resources
+D:\Users\Desktop\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+D:\Users\Desktop\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.MainForm.resources
+D:\Users\Desktop\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+D:\Users\Desktop\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+D:\Users\Desktop\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+D:\Users\Desktop\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+D:\Users\Desktop\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.exe
+D:\Users\Desktop\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+F:\PAD AOI 测试\现场版本\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+F:\PAD AOI 测试\现场版本\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe
+F:\PAD AOI 测试\现场版本\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+F:\PAD AOI 测试\现场版本\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+F:\PAD AOI 测试\现场版本\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+F:\PAD AOI 测试\现场版本\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+F:\PAD AOI 测试\现场版本\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+F:\PAD AOI 测试\现场版本\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MvCameraControl.Net.xml
+F:\PAD AOI 测试\现场版本\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.FormTest.resources
+F:\PAD AOI 测试\现场版本\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+F:\PAD AOI 测试\现场版本\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+F:\PAD AOI 测试\现场版本\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ParamContrast.resources
+F:\PAD AOI 测试\现场版本\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+F:\PAD AOI 测试\现场版本\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.MainForm.resources
+F:\PAD AOI 测试\现场版本\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+F:\PAD AOI 测试\现场版本\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+F:\PAD AOI 测试\现场版本\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+F:\PAD AOI 测试\现场版本\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+F:\PAD AOI 测试\现场版本\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.exe
+F:\PAD AOI 测试\现场版本\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.pdb
+F:\PAD AOI 测试\现场版本\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.AssemblyReference.cache
+F:\Pad AOI\PCB_AOInew\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe.config
+F:\Pad AOI\PCB_AOInew\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.exe
+F:\Pad AOI\PCB_AOInew\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MasonteVision.pdb
+F:\Pad AOI\PCB_AOInew\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.dll
+F:\Pad AOI\PCB_AOInew\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\MvCameraControl.Net.dll
+F:\Pad AOI\PCB_AOInew\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\Newtonsoft.Json.dll
+F:\Pad AOI\PCB_AOInew\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\bin\x64\Debug\halcondotnetxl.xml
+F:\Pad AOI\PCB_AOInew\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.AssemblyReference.cache
+F:\Pad AOI\PCB_AOInew\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.FormTest.resources
+F:\Pad AOI\PCB_AOInew\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ChoseCamera.resources
+F:\Pad AOI\PCB_AOInew\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.HaGUI.resources
+F:\Pad AOI\PCB_AOInew\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ParamContrast.resources
+F:\Pad AOI\PCB_AOInew\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Halcon.ToolSettingForm.resources
+F:\Pad AOI\PCB_AOInew\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.MainForm.resources
+F:\Pad AOI\PCB_AOInew\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.Properties.Resources.resources
+F:\Pad AOI\PCB_AOInew\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.GenerateResource.cache
+F:\Pad AOI\PCB_AOInew\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CoreCompileInputs.cache
+F:\Pad AOI\PCB_AOInew\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.csproj.CopyComplete
+F:\Pad AOI\PCB_AOInew\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.exe
+F:\Pad AOI\PCB_AOInew\PCB_AOI0902\PCB_AOI\VS_MasonteVisionMod\MasonteVision\obj\x64\Debug\MasonteVision.pdb

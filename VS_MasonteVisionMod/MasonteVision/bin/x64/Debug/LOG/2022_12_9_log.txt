@@ -1,0 +1,6 @@
+[180553:5543] Error:HALCON error #1501: Wrong number of values of object parameter 1 in operator write_image
+[180831:8599] Error:HALCON error #1501: Wrong number of values of object parameter 1 in operator write_image
+[182440:9283] Error:HALCON error #1501: Wrong number of values of object parameter 1 in operator write_image
+[182504:8950] Error:HALCON error #1501: Wrong number of values of object parameter 1 in operator write_image
+[182752:3468] Error:HALCON error #1501: Wrong number of values of object parameter 1 in operator write_image
+[182955:3548] Error:HALCON error #1501: Wrong number of values of object parameter 1 in operator write_image

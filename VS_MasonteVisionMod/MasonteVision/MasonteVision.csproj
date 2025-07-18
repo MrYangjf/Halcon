@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F25B67BC-F8B7-457F-949C-7E454B12330A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MasonteVision</RootNamespace>
+    <AssemblyName>MasonteVision</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+    <DocumentationFile>
+    </DocumentationFile>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ClassLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\ClassLibrary\bin\Debug\ClassLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="halcondotnetxl">
+      <HintPath>C:\Program Files\MVTec\HALCON-17.12-Progress\bin\dotnet35\halcondotnetxl.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.ADOX, Version=2.8.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\MasonteDataProcess\bin\x64\Debug\Interop.ADOX.dll</HintPath>
+    </Reference>
+    <Reference Include="MasonteCommInterface, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\MasonteCommInterface\bin\x64\Debug\MasonteCommInterface.dll</HintPath>
+    </Reference>
+    <Reference Include="MvCameraControl.Net, Version=3.4.0.1, Culture=neutral, PublicKeyToken=52fddfb3f94be800, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\MVS\Development\DotNet\win64\MvCameraControl.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL" />
+    <Reference Include="SRAPI_CSharp-x64">
+      <HintPath>C:\SmartRay\SmartRay DevKit\SR_API\Win_x64_MSVC_19\bin\SRAPI_CSharp-x64.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Halcon\HalconTools\ParamContrast.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Halcon\HalconTools\ParamContrast.Designer.cs">
+      <DependentUpon>ParamContrast.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PCB_AOI_ZY_CAM\DllFunction.cs" />
+    <Compile Include="FormTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTest.Designer.cs">
+      <DependentUpon>FormTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Halcon\ChoseCamera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Halcon\ChoseCamera.Designer.cs">
+      <DependentUpon>ChoseCamera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Halcon\HaGUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Halcon\HaGUI.designer.cs">
+      <DependentUpon>HaGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Halcon\HalconCameraConn.cs" />
+    <Compile Include="Halcon\HalconModelAndFlow.cs" />
+    <Compile Include="Halcon\HalconTools\IVisionTool.cs" />
+    <Compile Include="Halcon\HalconTools\ToolsController.cs" />
+    <Compile Include="Halcon\HalconTools\ToolSettingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Halcon\HalconTools\ToolSettingForm.designer.cs">
+      <DependentUpon>ToolSettingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Halcon\HalconTools\VisionBarCode.cs" />
+    <Compile Include="Halcon\HalconTools\VisionBlob.cs" />
+    <Compile Include="Halcon\HalconTools\VisionCircle.cs" />
+    <Compile Include="Halcon\HalconTools\VisionClarity.cs" />
+    <Compile Include="Halcon\HalconTools\VisionCross.cs" />
+    <Compile Include="Halcon\HalconTools\VisionHelper.cs" />
+    <Compile Include="Halcon\HalconTools\VisionLine.cs" />
+    <Compile Include="Halcon\HalconTools\VisionPadPanic.cs" />
+    <Compile Include="Halcon\HalconTools\VisionTemplate.cs" />
+    <Compile Include="Halcon\HalconTools\VisionTemplateNCC.cs" />
+    <Compile Include="Halcon\HalconTools\VisionTemplateOCR.cs" />
+    <Compile Include="Halcon\HalconTools\VisionTemplateScaled.cs" />
+    <Compile Include="Halcon\SmartRay3DTool\CreatAffineModel.cs" />
+    <Compile Include="Halcon\SmartRay3DTool\FitSurface.cs" />
+    <Compile Include="Halcon\SmartRay3DTool\PointDist.cs" />
+    <Compile Include="Halcon\SmartRay3DTool\SmartRay3DToolSave.cs" />
+    <Compile Include="Halcon\ViewROI\DispMessage.cs" />
+    <Compile Include="Halcon\ViewROI\FunctionPlot.cs" />
+    <Compile Include="Halcon\ViewROI\GraphicsContext.cs" />
+    <Compile Include="Halcon\ViewROI\HObjectEntry.cs" />
+    <Compile Include="Halcon\ViewROI\HWndCtrl.cs" />
+    <Compile Include="Halcon\ViewROI\ROI.cs" />
+    <Compile Include="Halcon\ViewROI\ROICircle.cs" />
+    <Compile Include="Halcon\ViewROI\ROICircularArc.cs" />
+    <Compile Include="Halcon\ViewROI\ROIController.cs" />
+    <Compile Include="Halcon\ViewROI\ROILine.cs" />
+    <Compile Include="Halcon\ViewROI\ROIRectangle1.cs" />
+    <Compile Include="Halcon\ViewROI\ROIRectangle2.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PCB_AOI_ZY_CAM\ParamsClass.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="PCB_AOI_ZY_CAM\StructsBody.cs" />
+    <EmbeddedResource Include="FormTest.resx">
+      <DependentUpon>FormTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Halcon\ChoseCamera.resx">
+      <DependentUpon>ChoseCamera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Halcon\HaGUI.resx">
+      <DependentUpon>HaGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Halcon\HalconTools\ParamContrast.resx">
+      <DependentUpon>ParamContrast.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Halcon\HalconTools\ToolSettingForm.resx">
+      <DependentUpon>ToolSettingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\1190801.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\帮助.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\保存.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\查询.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\撤销.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\串口图标3d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\导出.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\登出.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\登录.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\发送.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\管理.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\记录.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\加载.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\交换机.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\解锁.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\禁止.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\警告.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\明信LOGO_2020.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\启动.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\取消.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\确认.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\日历.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\删除.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\设备参数配置.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\设置参数.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\摄像头.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\手机.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\数据库.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\数据统计.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\数据显示.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\刷新.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\通讯.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\通讯故障.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\退出.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\退出2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\网口图标3d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\网络.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\网络接口.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\文件夹.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\系统配置.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\下载.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\相机.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\选择.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\应用.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\用户.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\用户增加.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\暂停.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\主界面.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\主页.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\注销.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\注意.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\最小化.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\回收.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\png图标\明信logo.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

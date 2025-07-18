@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="gb2312"?>
+<ZY>
+  <CameraConnect>
+    <IPadr>192.168.20.25</IPadr>
+    <bestAE>100</bestAE>
+    <gain>0</gain>
+    <rgain>285</rgain>
+    <bgain>223</bgain>
+    <saturation>12</saturation>
+    <contrast>10</contrast>
+    <sharp>90</sharp>
+    <hdr>10</hdr>
+    <AEstate>0</AEstate>
+  </CameraConnect>
+</ZY>

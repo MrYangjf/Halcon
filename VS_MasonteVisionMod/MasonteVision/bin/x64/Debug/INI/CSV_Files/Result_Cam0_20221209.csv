@@ -1,0 +1,8 @@
+File,TestTime,HavePad,Edge,DarkDot,DarkCircle,DarkPlane,WhiteDot,WhiteCircle,WhitePlane,IOXColor,NullColor,Scratch,ToolResult,Pass 
+F:\Pad AOI\20221209\cam1_jin\CamStation0_Pcs1_PAD1_15425370.jpg,2022/12/09 17:49:32:1885,1,0,0,0,0,0,0,0,0,0,0,True,True 
+F:\Pad AOI\20221209\cam1_jin\CamStation0_Pcs1_PAD1_15425370.jpg,2022/12/09 17:50:17:4036,1,0,0,0,0,0,0,0,0,0,0,True,True 
+F:\Pad AOI\20221209\cam1_jin\CamStation0_Pcs1_PAD1_15425370.jpg,2022/12/09 17:51:13:2138,1,0,0,0,0,0,0,0,0,0,0,True,True 
+F:\Pad AOI\20221209\cam1_jin\CamStation0_Pcs1_PAD1_15425370.jpg,2022/12/09 17:54:42:2050,1,0,0,0,0,0,0,0,0,0,0,True,True 
+F:\Pad AOI\20221209\cam1_jin\CamStation0_Pcs20_PAD12_16052391.jpg,2022/12/09 19:17:36:0110,1,0,18,0,0,0,0,0,1,0,0,True,False 
+F:\Pad AOI\20221209\cam1_yin\CamStation0_Pcs1_PAD13_15430719.jpg,2022/12/09 19:17:57:9640,1,0,0,0,0,0,0,0,1,0,0,True,False 
+F:\Pad AOI\20221209\cam1_yin\CamStation0_Pcs1_PAD13_15430719.jpg,2022/12/09 19:20:09:6730,1,0,0,0,0,0,0,0,0,0,0,True,True 

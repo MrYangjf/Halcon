@@ -1,0 +1,19 @@
+[191220:5350] Error:Index out of range
+[191309:9908] Error:Index out of range
+[191500:7078] Error:Index out of range
+[193911:1389] Error:HALCON error #4052: Image data management: wrong object-ID in operator region_features
+[193913:6452] Error:HALCON error #4052: Image data management: wrong object-ID in operator region_features
+[194549:9457] Error:HALCON error #4052: Image data management: wrong object-ID in operator region_features
+[194625:9415] Error:HALCON error #4052: Image data management: wrong object-ID in operator region_features
+[194636:0315] Error:HALCON error #4052: Image data management: wrong object-ID in operator region_features
+[194638:4430] Error:HALCON error #4052: Image data management: wrong object-ID in operator region_features
+[194640:0856] Error:HALCON error #4052: Image data management: wrong object-ID in operator region_features
+[194640:2642] Error:HALCON error #4052: Image data management: wrong object-ID in operator region_features
+[194641:7352] Error:HALCON error #4052: Image data management: wrong object-ID in operator region_features
+[194707:3986] Error:HALCON error #4052: Image data management: wrong object-ID in operator region_features
+[195615:9431] Error:'Illegal operation on Tuple' when accessing 'HalconDotNet.HTupleVoid'
+[200144:8318] Error:HALCON error #4052: Image data management: wrong object-ID in operator paint_region
+[200230:2683] Error:HALCON error #4052: Image data management: wrong object-ID in operator paint_region
+[200252:7023] Error:HALCON error #4052: Image data management: wrong object-ID in operator paint_region
+[200356:2045] Error:HALCON error #4052: Image data management: wrong object-ID in operator paint_region
+[200410:2061] Error:HALCON error #4052: Image data management: wrong object-ID in operator paint_region

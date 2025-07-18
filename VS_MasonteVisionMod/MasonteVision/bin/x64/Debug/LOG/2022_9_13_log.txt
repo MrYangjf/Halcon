@@ -1,0 +1,15 @@
+[111413:5552] Error:未能找到路径“E:\CamStation0\PCBAOI现场图\370\NG\铂金色”的一部分。
+[111617:6774] Error:未能找到路径“E:\CamStation0\PCBAOI现场图\370\NG\铂金色”的一部分。
+[131717:7245] Error:HALCON error #4052: Image data management: wrong object-ID in operator smallest_circle
+[131941:7871] Error:HALCON error #4052: Image data management: wrong object-ID in operator smallest_circle
+[132005:1746] Error:HALCON error #4052: Image data management: wrong object-ID in operator smallest_circle
+[132052:8313] Error:HALCON error #4052: Image data management: wrong object-ID in operator smallest_circle
+[132056:9580] Error:HALCON error #4052: Image data management: wrong object-ID in operator smallest_circle
+[132119:3605] Error:HALCON error #4052: Image data management: wrong object-ID in operator smallest_circle
+[132125:2177] Error:HALCON error #4052: Image data management: wrong object-ID in operator smallest_circle
+[132135:3244] Error:HALCON error #4052: Image data management: wrong object-ID in operator smallest_circle
+[132159:6595] Error:HALCON error #4052: Image data management: wrong object-ID in operator smallest_circle
+[132321:3179] Error:HALCON error #4052: Image data management: wrong object-ID in operator smallest_circle
+[132326:7702] Error:HALCON error #4052: Image data management: wrong object-ID in operator smallest_circle
+[132344:3050] Error:HALCON error #4052: Image data management: wrong object-ID in operator smallest_circle
+[132443:8963] Error:HALCON error #4052: Image data management: wrong object-ID in operator smallest_circle
