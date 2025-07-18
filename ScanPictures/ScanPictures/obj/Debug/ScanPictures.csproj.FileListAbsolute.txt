@@ -1,0 +1,23 @@
+D:\Users\Desktop\ScanPictures\ScanPictures\bin\Debug\ScanPictures.exe.config
+D:\Users\Desktop\ScanPictures\ScanPictures\bin\Debug\ScanPictures.exe
+D:\Users\Desktop\ScanPictures\ScanPictures\bin\Debug\ScanPictures.pdb
+D:\Users\Desktop\ScanPictures\ScanPictures\obj\Debug\ScanPictures.Form1.resources
+D:\Users\Desktop\ScanPictures\ScanPictures\obj\Debug\ScanPictures.Properties.Resources.resources
+D:\Users\Desktop\ScanPictures\ScanPictures\obj\Debug\ScanPictures.csproj.GenerateResource.cache
+D:\Users\Desktop\ScanPictures\ScanPictures\obj\Debug\ScanPictures.csproj.CoreCompileInputs.cache
+D:\Users\Desktop\ScanPictures\ScanPictures\obj\Debug\ScanPictures.exe
+D:\Users\Desktop\ScanPictures\ScanPictures\obj\Debug\ScanPictures.pdb
+D:\Users\Desktop\ScanPictures\ScanPictures\obj\Debug\ScanPictures.FormConfig.resources
+D:\Users\Desktop\ScanPictures\ScanPictures\obj\Debug\ScanPictures.PicWindow.resources
+F:\Pad AOI\ScanPictures\ScanPictures\ScanPictures\bin\Debug\ScanPictures.exe.config
+F:\Pad AOI\ScanPictures\ScanPictures\ScanPictures\bin\Debug\ScanPictures.exe
+F:\Pad AOI\ScanPictures\ScanPictures\ScanPictures\bin\Debug\ScanPictures.pdb
+F:\Pad AOI\ScanPictures\ScanPictures\ScanPictures\obj\Debug\ScanPictures.Form1.resources
+F:\Pad AOI\ScanPictures\ScanPictures\ScanPictures\obj\Debug\ScanPictures.FormConfig.resources
+F:\Pad AOI\ScanPictures\ScanPictures\ScanPictures\obj\Debug\ScanPictures.PicWindow.resources
+F:\Pad AOI\ScanPictures\ScanPictures\ScanPictures\obj\Debug\ScanPictures.Properties.Resources.resources
+F:\Pad AOI\ScanPictures\ScanPictures\ScanPictures\obj\Debug\ScanPictures.csproj.GenerateResource.cache
+F:\Pad AOI\ScanPictures\ScanPictures\ScanPictures\obj\Debug\ScanPictures.csproj.CoreCompileInputs.cache
+F:\Pad AOI\ScanPictures\ScanPictures\ScanPictures\obj\Debug\ScanPictures.exe
+F:\Pad AOI\ScanPictures\ScanPictures\ScanPictures\obj\Debug\ScanPictures.pdb
+F:\Pad AOI\ScanPictures\ScanPictures\ScanPictures\obj\Debug\ScanPictures.csproj.AssemblyReference.cache
